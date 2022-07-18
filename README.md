@@ -1,8 +1,12 @@
 # VS Code Themed Portfolio
 
-[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
+<h3>Open in Vs Code <img src="https://vscode-portfolio.vercel.app/_next/image?url=%2Fvscode_icon.svg&w=16&q=75" alt="vs code" width="50" height="50" /></h3> 
 
 A **Visual Studio Code themed developer portfolio** website built with `Next.js` which has every feature that you have seen in vs code.
+
+## Check it out:
+
+[Run this Project](https://vscode-portfolio.vercel.app/)
 
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
 
@@ -29,7 +33,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [localhost](http://localhost:3000) within your browser to see the result.
 
 All VSCode related components can be found in the `components` folder. To change the content of the portfolio, check out the `pages` folder. To add or remove pages, modify `components/Sidebar.jsx` and `components/Tabsbar.jsx`.
 
@@ -42,5 +46,9 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
 
-# Bye 👋
+## Licence
+MIT `LICENCE` Read Licence document for more details ->
+
+# Bye! 👋
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
 
