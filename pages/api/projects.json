@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "React Counter",
+    "image": "https://imgur.com/A8NYxAA.png",
+    "description": "A Counter app that allows to change counr using React",
+    "tags": [
+      "react",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "source_code": "",
+    "demo": "https://friendly-austin-253745.netlify.app/"
+  },
+  {
+    "id": 2,
+    "name": "PCB Cupid",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "E-commerce website for a PCB manufacturing company",
+    "tags": [
+      "react",
+      "node",
+      "mongodb",
+      "redux",
+      "website",
+      "material-ui"
+    ],
+    "demo": "https://www.pcbcupid.com/"
+  },
+  {
+    "id": 3,
+    "name": "HealthyWays",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "A food ordering platform for healthy and home-cooked meals",
+    "tags": [
+      "react",
+      "node",
+      "mongodb",
+      "redux",
+      "tailwindcss",
+      "material-ui"
+    ],
+    "source_code": "https://github.com/itsnitinr/healthyways",
+    "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": [
+      "next",
+      "redux",
+      "tailwindcss"
+    ],
+    "source_code": "https://github.com/HamzaZaidiX/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
