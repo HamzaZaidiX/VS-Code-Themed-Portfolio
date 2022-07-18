@@ -1,14 +1,16 @@
 # VS Code Themed Portfolio
 
-<h3>Open in Vs Code <img src="https://vscode-portfolio.vercel.app/_next/image?url=%2Fvscode_icon.svg&w=16&q=75" alt="vs code" width="50" height="50" /></h3> 
+<h3 align="center">Open in Vs Code <img src="https://vscode-portfolio.vercel.app/_next/image?url=%2Fvscode_icon.svg&w=16&q=75" alt="vs code" width="30" height="30" /></h3> 
 
 A **Visual Studio Code themed developer portfolio** website built with `Next.js` which has every feature that you have seen in vs code.
 
 ## Check it out:
 
-[Run this Project](https://vscode-portfolio.vercel.app/)
+Run this Project ➡️ [Live Demo 🚀](https://vscode-portfolio.vercel.app/)
 
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
+
+## Screenshot:
 
 ## Features of Project 
 
