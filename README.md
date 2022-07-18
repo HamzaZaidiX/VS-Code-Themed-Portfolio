@@ -10,7 +10,9 @@ Run this Project ➡️ [Live Demo 🚀](https://vscode-portfolio.vercel.app/)
 
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
 
-## Screenshot:
+## 📸 Screenshot:
+
+![Screenshot (261)](https://user-images.githubusercontent.com/52501040/179607189-900cbceb-0e2e-4c88-b925-4bbb10de43eb.png)
 
 ## Features of Project 
 
